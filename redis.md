@@ -240,7 +240,7 @@ ZRANK命令按照元素分数的从小到大的顺序获得制定元素的排名
 
 作者:UFO
 
-原文:https://github.com/lidawei-ufo/MYSQL/blob/master/README.md
+原文:https://github.com/lidawei-ufo/redis/blob/master/redis.md
 
 版权声明:本文为博主原创文章,转载请附上博文链接！
 
